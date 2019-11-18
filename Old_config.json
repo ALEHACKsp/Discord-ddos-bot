@@ -1,0 +1,9 @@
+{
+    "prefix": "!",
+    "mintime": "40",
+    "maxtime": "300",
+    "required": "role ddos",
+    "owner": "owner role id",
+    "channel": "channel to use commands id",
+    "token": "token"
+}

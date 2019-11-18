@@ -1,0 +1,9 @@
+{
+    "prefix": "!",
+    "mintime": "40",
+    "maxtime": "300",
+    "normal": "cargo id",
+    "premium": "cargo id",
+    "channel": "channel id",
+    "token": "token"
+}
